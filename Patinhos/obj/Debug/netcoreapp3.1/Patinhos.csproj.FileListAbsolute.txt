@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\Patinhos\Patinhos\bin\Debug\netcoreapp3.1\Patinhos.exe
+C:\Users\Max\Desktop\Patinhos\Patinhos\bin\Debug\netcoreapp3.1\Patinhos.deps.json
+C:\Users\Max\Desktop\Patinhos\Patinhos\bin\Debug\netcoreapp3.1\Patinhos.runtimeconfig.json
+C:\Users\Max\Desktop\Patinhos\Patinhos\bin\Debug\netcoreapp3.1\Patinhos.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Patinhos\Patinhos\bin\Debug\netcoreapp3.1\Patinhos.dll
+C:\Users\Max\Desktop\Patinhos\Patinhos\bin\Debug\netcoreapp3.1\Patinhos.pdb
+C:\Users\Max\Desktop\Patinhos\Patinhos\obj\Debug\netcoreapp3.1\Patinhos.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Patinhos\Patinhos\obj\Debug\netcoreapp3.1\Patinhos.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Patinhos\Patinhos\obj\Debug\netcoreapp3.1\Patinhos.AssemblyInfo.cs
+C:\Users\Max\Desktop\Patinhos\Patinhos\obj\Debug\netcoreapp3.1\Patinhos.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Patinhos\Patinhos\obj\Debug\netcoreapp3.1\Patinhos.dll
+C:\Users\Max\Desktop\Patinhos\Patinhos\obj\Debug\netcoreapp3.1\Patinhos.pdb
+C:\Users\Max\Desktop\Patinhos\Patinhos\obj\Debug\netcoreapp3.1\Patinhos.genruntimeconfig.cache
